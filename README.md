@@ -70,6 +70,6 @@ UNIVERSITY MANAGEMENT SYSTEM (UMS) is a flagship product of Easy Solution which 
 
 
 ## Installation Process
-For run this project first you have to install local server like xampp. then save this project to htdocs which is located in xampp folder. Then run this by using a browser with localhostor upload it to real time host. 
+For run this project first you have to install local server like xampp. then save this project to htdocs which is located in xampp folder. Then run this by using a browser with localhostor upload it to real time host..
 
 ### Dont forget to give reference of me
