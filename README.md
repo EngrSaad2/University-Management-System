@@ -6,7 +6,7 @@ LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
 Facebook: https://www.facebook.com/raselhasandurjoy<br>
 Company WEB: https://triangeltech.com/ <br>
 Phone: +8801904654712<br>
-....
+...
 ## About UMS
 UNIVERSITY MANAGEMENT SYSTEM (UMS) is a flagship product of Easy Solution which covers all aspects of Universities, Colleges or Schools. EUMS covers every minute aspects of a universities work flow and integrates all processes with user friendly interface. With hundreds of satisfied customers EUMS is first choice of several state, governments/semi-government universities and institutions. EUMS is an outcome of hard work done by our expert technical team in supervision of several renowned educationists which includes Chancellors, Controller of examination, Directors, Principals, faculties, librarian and IT experts. EUMS is a rare combination of experience and precision. EUMS streamline path of information flow in organization by taking care of following departments:
 
